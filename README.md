@@ -7,4 +7,5 @@ Fake AP for fun<br>
 python3 beacon_flood.py <dev>
 
 <img src=# onerror=alert(1)>
-
+<a href="javascript:alert(document.domain)">Click me!</a>
+<iframe src="javascript:alert(document.domain)">
